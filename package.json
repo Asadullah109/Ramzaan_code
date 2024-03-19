@@ -1,5 +1,5 @@
 {
-  "name": "new1_calculator",
+  "name": "m16riflenew1_calculator",
   "version": "1.0.2",
   "description": "one simple calculator with typescrit,node.js and inquirer ",
   "main": "index.js",
